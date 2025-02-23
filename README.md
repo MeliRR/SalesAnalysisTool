@@ -4,7 +4,7 @@
 
 This is a simple tool designed to help users analyze sales data. It demonstrates the use of **Visual Studio Code**, **Python**, and **GitHub** to create a software that loads, cleans, and analyzes sales data, providing key insights such as total sales, average sales, and top products. Additionally, it visualizes sales trends over time.
 
-You can watch a demo of my software here: [Software Demo Video](https://youtu.be/your-video-link)
+You can watch a demo of my software here: [Software Demo Video](https://youtu.be/6EQUQmNOEWw)
 
 ## Development Environment
 
