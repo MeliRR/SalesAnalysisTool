@@ -42,7 +42,7 @@ You can watch a demo of my software here: [Software Demo Video](https://youtu.be
 
 ## Useful Websites
 
-- [Hello World Demonstration](https://www.example.com) (Optional link, if you'd like to provide one)
+- [Pytho Libraries Help](https://www.geeksforgeeks.org/libraries-in-python/)
 - [GitHub](https://github.com)
 - [Git](https://git-scm.com/)
 
